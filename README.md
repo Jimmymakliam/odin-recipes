@@ -1,9 +1,24 @@
 # odin-recipes
 
+This project is part of my learning journey as I explore HTML.  
+After covering the basics like elements, tags, attributes, lists and links, I'm now building a simple project to test and apply my skills, where the website is about recipes.
 
-This is an odin-recipes project where I demonstrate skills such as:
-- Calendar and inbox management
-- Client communication
-- Task automation with simple scripts
+## 💡 What this project demonstrates:
+- Structuring a web page with HTML
+- Creating links, and lists
+- Embedding images
 
-At the end of this project, I expect to be confident with basics of HTML and GitHub collaboration.
+## 🎯 Goals:
+By completing this project, I aim to:
+- Reinforce what I’ve learned in HTML foundations
+- Build confidence in writing clean and meaningful HTML code
+- Prepare myself for learning CSS next
+
+## 📁 Project Status:
+🚧 In Progress  
+I'll update this README once the project is complete with screenshots and reflections.
+
+---
+
+*Created with passion by Jimmy.*
+
